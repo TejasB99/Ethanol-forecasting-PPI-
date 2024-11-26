@@ -1,0 +1,2 @@
+#!/bin/bash
+voila --port=${PORT} --no-browser --ip=0.0.0.0 ethanol_price_model_training.ipynb
